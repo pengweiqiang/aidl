@@ -14,8 +14,16 @@
     <Button
         android:layout_width="100dp"
         android:layout_height="50dp"
-        android:text="btn1"
+        android:text="调用"
         android:id="@+id/btn1"
+        android:layout_centerInParent="true"
+        />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="解绑"
+        android:layout_below="@+id/btn1"
+        android:id="@+id/btn2"
         android:layout_centerInParent="true"
         />
 </RelativeLayout>
