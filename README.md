@@ -1,5 +1,5 @@
-# aidl
-aidl：主要用于进程间的通信。
+# AIDL
+AIDL：主要用于进程间的通信。
 
 使用过程中注意点：<br/>
 1、服务端aidlserver和客户端aidlclient的aidl包名必须相同<br/>
